@@ -1,0 +1,23 @@
+.user-container {
+	width: 100%;
+	height: fit-content;
+	border: 1px solid grey;
+	border-radius: 15px;
+	overflow: hidden;
+	padding: 10px;
+}
+
+.image-container img {
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.details {
+	padding: 5px 0;
+}
+.details .key {
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 3px;
+	color: #4caf50;
+}
